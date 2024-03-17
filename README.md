@@ -41,8 +41,8 @@ This project focuses on classifying audio samples into two categories: "OK" and 
 ## Usage
 1. **Data Preprocessing**:
    - Ensure that audio samples are stored in the `wavfiles/` directory.
-   - Run `feature_extraction.py` to preprocess the audio samples and extract features.
+   - Run `preprocessing.py` to preprocess the audio samples and extract features.
 2. **Model Training**:
-   - Run `model_training.py` to train machine learning models on the extracted features.
+   - Run `model.py` to train machine learning models on the extracted features.
 3. **Prediction**:
-   - Once the models are trained, run `prediction.py` to make predictions on new audio samples.
+   - Once the models are trained, run `predict.py` to make predictions on new audio samples.
