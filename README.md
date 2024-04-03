@@ -46,3 +46,9 @@ This project focuses on classifying audio samples into two categories: "OK" and 
    - Run `model.py` to train machine learning models on the extracted features.
 3. **Prediction**:
    - Once the models are trained, run `predict.py` to make predictions on new audio samples.
+
+## Authors
+- [Shashwat Agarwal](https://www.linkedin.com/in/shashwattagrawal/)
+- [Karandeep Saluja](https://www.linkedin.com/in/karandeep-saluja-45949b221/)
+
+
